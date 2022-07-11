@@ -1,1 +1,3 @@
 /Users/stormcalhoun/Desktop/parker-christian/instructions.txt 2
+
+To delete hiddden file push cammand shift period
